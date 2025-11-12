@@ -86,4 +86,6 @@ void centerword(){
   rect(width/2, height/2, tw + 40, th + 20, 10);
   fill(0);
   text(currentWord, width/2, height/2);
+println(topWords);
 }
+
